@@ -1,4 +1,4 @@
-# Link Manager
+# Link Summarizer
 
 ## Introduction
 The Link Manager is a web application that helps you manage your links and content. It allows you to scrape content from external websites, summarize it using a Google Generative AI, and manage your links and their associated metadata.
@@ -39,12 +39,12 @@ To run the Link Manager application, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/link-manager.git
+git clone https://github.com/akhilathuluri/Link-Summarizer.git
 ```
 
 2. Install the dependencies:
 ```
-cd link-manager
+cd Link-Summarizer
 npm install
 ```
 
